@@ -1,5 +1,4 @@
 ![cover](cover.jpeg)
-![](https://komarev.com/ghpvc/?username=sunnat629&abbreviated=true)
 # Mohi Us Sunnat
 
 ### Sr. Software Engineer (Android) | Tech Speaker | Community Leader | Author
